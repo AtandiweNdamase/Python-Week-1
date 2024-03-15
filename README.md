@@ -29,3 +29,4 @@ Modifying Lists by using 'apend' which adds value to list
 A set is defined with curly brackets {'1', '2','3'} sets only contain unique values and can be used to remove dulplicates.
 Dictionaries and Lists are the two main data structures
 List Comprehensions , the comrehensive listing of things, mltiple ites in a list by a value enables you to Filter your list
+Putting  a break at the a end of a for loop will only give the first result only if the 
